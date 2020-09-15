@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Cooking Ebook</string>
+    <string name="description1">This Rosemary Chicken Noodle Soup recipe is kicked up a notch with the addition of lots of fresh aromatic rosemary, and it’s ready to go in about 30 minutes!</string>
+    <string name="ingredient1"> \u2022 2 Tablespoons olive oil\n
+                               \u2022 1 small white onion, peeled and diced\n
+                               \u2022 2 medium carrots, peeled and diced\n
+                               \u2022 2 stalks celery, ends trimmed and diced\n
+                               \u2022 3 cloves garlic, minced or pressed\n
+                               \u2022 8 cups (64 ounces) good-quality chicken stock\n
+                               \u2022 3-4 stalks *fresh rosemary (or more/less to taste)\n
+                               \u2022 6 ounces wide egg noodles (or use gluten-free noodles if making this GF)\n
+                               \u2022 2 cups shredded cooked chicken\n
+                               \u2022 salt and pepper\n
+                               \u2022 (optional: chopped fresh parsley for garnish)\n
+    </string>
+    <string name="description2">This Sunshine Citrus Avocado Salad recipe is super-refreshing and light and delicious, especially thanks to the addition of lots and lots of fresh herbs.  See notes above for possible ingredient add-ins and substitutions!</string>
+    <string name="ingredient2"> \u2022 1 (5-ounce) bag mixed greens\n
+                               \u2022 2 large ruby-red grapefruits (or oranges or mangoes), peeled and chopped\n
+                               \u2022 1 large ripe avocado, peeled, pitted and sliced\n
+                               \u2022 1 handful fresh basil leaves, roughly chopped\n
+                               \u2022 1 handful fresh mint leaves, roughly chopped\n
+                               \u2022 half of a medium red onion, thinly sliced\n
+                               \u2022 1/2 cup sliced or slivered almonds, toasted\n
+                               \u2022 optional topping: toasted sesame seeds\n
+    </string>
+    <string name="description3">My all-time favorite chicken enchilada recipe — easy to make, totally customizable with
+        your favorite fillings, and made with the hands-down best homemade enchilada sauce!</string>
+    <string name="ingredient3"> \u2022 2 tablespoons avocado oil (or olive oil)\n
+                                \u2022 1 small white onion, peeled and diced\n
+                                \u2022 1.5 pounds boneless skinless chicken breasts, diced into small 1/2-inch pieces\n
+                                \u2022 1 (4-ounce) can diced green chiles\n
+                                \u2022 sea salt and freshly-cracked black pepper\n
+                                \u2022 1 (15-ounce) can black beans, rinsed and drained\n
+                                \u2022 8 large flour tortillas\n
+                                \u2022 3 cups Mexican-blend shredded cheese\n
+                                \u2022 1 batch red enchilada sauce\n
+                                \u2022 optional toppings: fresh cilantro, chopped red onions, diced avocado, avocado, sour cream, and/or crumbled cotija cheese\n
+
+    </string>
+
+</resources>

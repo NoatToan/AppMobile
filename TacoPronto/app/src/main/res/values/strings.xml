@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Taco Pronto</string>
+
+    <string name="txtSize">Size</string>
+    <string name="rbLarge">Large</string>
+    <string name="rbMedium">Medium</string>
+
+    <string name="txtTortilla">Tortilla</string>
+    <string name="rbCorn">Corn</string>
+    <string name="rbFlour">Flour</string>
+
+    <string name="txtFillings">Fillings</string>
+    <string name="cbChicken">Chicken</string>
+    <string name="cbBeef">Beef</string>
+    <string name="cbWhiteFish">White Fish</string>
+    <string name="cbCheese">Cheese</string>
+    <string name="cbSeaFood">Sea Food</string>
+    <string name="cbPicodeGallo">Pico de Gallo</string>
+    <string name="cbBeans">Beans</string>
+    <string name="cbRice">Rice</string>
+    <string name="cbLBT">LBT</string>
+    <string name="cbGuacamole">Guacamole</string>
+
+    <string name="txtBeverage">Beverage</string>
+    <string name="cbSoda">Soda</string>
+    <string name="cbCerveza">Cerveza</string>
+    <string name="cbMargarita">Margarita</string>
+    <string name="cbTequila">Tequila</string>
+
+    <string name="btnPlaceOrder">Place Order</string>
+
+</resources>

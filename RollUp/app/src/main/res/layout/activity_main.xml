@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView  android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <EditText
+                android:id="@+id/editText"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:contentDescription="Mã số sinh viên"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:tag="Nhập mã số sinh viên vô" />
+
+            <Button
+                android:id="@+id/button_Lay_thong_tin"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:onClick="onClick"
+                android:text="Lấy Thông Tin"
+                android:textSize="8sp" />
+
+            <TextView
+                android:id="@+id/code_info"
+                android:layout_width="wrap_content"
+                android:layout_height="1dp"
+                android:layout_weight="1"
+                tools:visibility="invisible" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnTextReg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Chữ Viết Tay" />
+
+        <SurfaceView
+            android:id="@+id/camera_view"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+
+            android:layout_gravity="center"
+            android:layout_marginLeft="100dp"
+            android:layout_marginRight="100dp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="149dp"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <ListView
+            android:id="@+id/listView_thongtin"
+            android:layout_width="match_parent"
+            android:layout_height="181dp"
+            android:scrollbars="vertical" />
+
+    </LinearLayout>
+</ScrollView>
+
